@@ -7,7 +7,7 @@ X Education, an online course provider, faces a challenge with a low lead conver
 
 **Objective:**
 
-Create a logistic regression model that will allow the business to target potential leads by giving each lead a score between 0 and 100. In contrast, a lower number would indicate that the lead is chilly and unlikely to convert, but a higher score would indicate that the lead is hot and likely to convert
+Create a logistic regression model that will allow the business to target potential leads by giving each lead a score between 0 and 100. In contrast, a lower number would indicate that the lead is cold and unlikely to convert, but a higher score would indicate that the lead is hot and likely to convert
 
 
 
